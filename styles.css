@@ -1,0 +1,16 @@
+/* 
+Name:       Muhammad Aril Bin Mohamed Irwan
+Class:      DIT/1B/07
+Admin No:   2323275
+*/
+
+body {
+    background-color: cadetblue;
+}
+
+#head {
+    background-color:gainsboro;
+    box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.5);
+    padding: 1%;
+    border-radius: 10px;
+}
